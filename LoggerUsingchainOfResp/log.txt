@@ -1,0 +1,9 @@
+﻿WARNING: This is a warning message.
+ERROR: This is an error message.
+FATAL: This is a fatal message.
+WARNING: This is a warning message.
+ERROR: This is an error message.
+FATAL: This is a fatal message.
+WARNING: This is a warning message.
+ERROR: This is an error message.
+FATAL: This is a fatal message.
